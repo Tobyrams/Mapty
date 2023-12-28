@@ -2,8 +2,8 @@
 ![icon](https://github.com/Tobyrams/Mapty/assets/87528122/f7a7a669-21e9-4d59-bc33-23e9d6ff6077)
 
 This is an application that I coded along during a JavaScript course with [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/). 
-This applciation allows users to log thier workout being running or cycling. The application will store the users
-information so that when the access the application later they will see their previous workouts.
+Mapty allows users to log thier workout being running or cycling. Mapty will store the users
+information so that when they access the application later they will see their previous workouts.
 [Mapty App](https://tobyrams.github.io/Mapty/) **(Not yet suitable for mobile)**
 
 ## Features
