@@ -20,10 +20,8 @@ information so that when they access the application later they will see their p
 - Click where you would like to logg your workout, then a form will popup on the left side-bar prompting you to enter your workout: type(Running or Cycling), distance, duration and caidence/elevation gain.
 - Click enter and your workout will be saved and displayed onto the map.
 
-## App Screeenshot
-![mapty-Map-your-workouts](https://github.com/Tobyrams/Mapty/assets/87528122/3cf1aba9-d0bd-4a8b-846d-3a8d4d8c51cb)
-
-
+## Mapty Video
+https://github.com/Tobyrams/Mapty/assets/87528122/ad35e45b-f246-40f1-a5e6-0e854bc0e9ca
 
 ## Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logoColor=yellow)
